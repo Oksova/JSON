@@ -1,1 +1,6 @@
-{"Name":"Mariia Oksova", "Age":"30", "Pets": 0, "Future salary":2000$}
+{
+  "Name":"Mariia Oksova", 
+  "Age":30, 
+  "Pets": 0, 
+  "Future salary":2000$
+}
